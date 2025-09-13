@@ -1,4 +1,4 @@
-"homepage": "https://github.com/Dhee-S/AuraHub-E-Commerce-Product-Catalog",
+"homepage": "https://dhee-s.github.io/AuraHub-E-Commerce-Product-Catalog/",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
